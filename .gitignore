@@ -5,5 +5,4 @@ infrastructure/prod/.terraform/
 infrastructure/prod/bootstrap
 .DS_Store
 infrastructure/prod/terraform.tfstate
-infrastructure/prod/terraform.tf
 infrastructure/prod/.terraform.lock.hcl
